@@ -11,7 +11,7 @@ Seminars and graded projects related to the subject were aimed at implementing t
 The course comprised:
 
 - 15 lectures - 30h
-- 12 seminars - 30h
+- 15 seminars - 30h
 - 6 graded projects - individual work at home
 
 All code has been written in Python combined with libraries such as PyTorch, TorchVision, scikit-learn, OpenCV and HuggingFace Transformers.
